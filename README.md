@@ -14,18 +14,19 @@ I am a passionate .NET full-stack Developer with some months of experience in bu
   
 
 <div align="center">
-<a href="https://twitter.com/pandey_ji2001" target="_blank" style="margin-right: 10px;">
-        <i class="fab fa-twitter fa-2x"></i>
-    </a>
-    <a href="https://github.com/Amitpandey2001" target="_blank" style="margin-right: 10px;">
-        <i class="fab fa-github fa-2x"></i>
-    </a>
-    <a href="https://linkedin.com/in/Amitpandey2001" target="_blank" style="margin-right: 10px;">
-        <i class="fab fa-linkedin fa-2x"></i>
-    </a>
-    <a href="https://instagram.com/ig_pandey.ji" target="_blank" style="margin-right: 10px;">
-        <i class="fab fa-instagram fa-2x"></i>
-    </a>
+<a href="https://twitter.com/pandey_ji2001" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Amitpandey2001" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?style=social&logo=github&logoColor=white" alt="github" />
+</a>
+<a href="https://linkedin.com/in/Amitpandey2001" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ig_pandey.ji" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+
 </div>  
   
 
