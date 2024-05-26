@@ -13,7 +13,7 @@
 
 ### Working as Junior Full Stack Web Developer at Mastersoft ERP Solutions.
 
-## Facts about me 🎈: 
+## Facts about me 🎈:
 ![Keep Coding](https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif)
 - 🔭 I’m constantly working on **learning new skills!**  
 - 👯 I’m looking to collaborate on a cool project.  
@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats :
 
-![AmitPandey](https://github-readme-stats.vercel.app/api?username=Amitpandey2001&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark)
+![AmitPandey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitpandey2001&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitpandey2001&layout=compact&hide=Shell&border_radius=0&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitpandey2001&theme=dark)
 
