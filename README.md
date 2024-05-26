@@ -1,3 +1,9 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+
+
 ## Hey 👋, I'm Amit Pandey!  
   
 
@@ -9,17 +15,17 @@ I am a passionate .NET full-stack Developer with some months of experience in bu
 
 <div align="center">
 <a href="https://twitter.com/pandey_ji2001" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-twitter fa-2x"></i>
-</a>
-<a href="https://github.com/Amitpandey2001" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-github fa-2x"></i>
-</a>
-<a href="https://linkedin.com/in/Amitpandey2001" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-linkedin fa-2x"></i>
-</a>
-<a href="https://instagram.com/ig_pandey.ji" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-instagram fa-2x"></i>
-</a>
+        <i class="fab fa-twitter fa-2x"></i>
+    </a>
+    <a href="https://github.com/Amitpandey2001" target="_blank" style="margin-right: 10px;">
+        <i class="fab fa-github fa-2x"></i>
+    </a>
+    <a href="https://linkedin.com/in/Amitpandey2001" target="_blank" style="margin-right: 10px;">
+        <i class="fab fa-linkedin fa-2x"></i>
+    </a>
+    <a href="https://instagram.com/ig_pandey.ji" target="_blank" style="margin-right: 10px;">
+        <i class="fab fa-instagram fa-2x"></i>
+    </a>
 </div>  
   
 
