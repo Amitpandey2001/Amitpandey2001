@@ -24,10 +24,8 @@
 </head>
 <body>
 
-
 ## Hey 👋, I'm Amit Pandey!  
   
-
 
 ### Glad to see you here!  
 I am a passionate .NET full-stack Developer with some months of experience in building and maintaining web applications. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support. I specialize in building robust backends that do all the heavy lifting for your app or website.  
@@ -46,13 +44,14 @@ I am a passionate .NET full-stack Developer with some months of experience in bu
 <a href="https://instagram.com/ig_pandey.ji" target="_blank">
     <i class="fab fa-instagram fa-2x" style="color:#E1306C;margin:5px;"></i>
 </a>
+
 </div>  
   
 
 <br/>  
 
 
-## About Me : 
+## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Matdaan Voting Site.  
@@ -121,11 +120,8 @@ I am a passionate .NET full-stack Developer with some months of experience in bu
 
 <br/>  
 
-  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Amitpandey2001&&style=flat-square)  
+## Profile Views
 <div align="center">
     <span class="profile-views">
         <i class="fas fa-eye"></i> 
@@ -136,8 +132,6 @@ I am a passionate .NET full-stack Developer with some months of experience in bu
 <script>
     document.getElementById('view-count').innerText = 123; // Replace with dynamic value if available
 </script>
-  
 
-<br/>  
 </body>
 </html>
